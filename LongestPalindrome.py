@@ -5,7 +5,11 @@ class Solution:
         Find longest substring from that position in either direction
         Return longest of all such substrings
         args:
-        s: Input string"""
+        s: Input string
+        
+        return:
+        Longest palindromic substring
+        """
         res = ""
         for i in range(len(s)):
             tmp_odd = self.helper(s, i, i)
@@ -19,7 +23,12 @@ class Solution:
         """
         Return longest palindromic substring from any position
         args:
+        s: input string
+        l: position of left pointer
+        r: position of right pointer
 
+        return:
+        Longest palindromic substring 
         """
         while l >= 0 and r < len(s) and s[l] == s[r]:
             # Move left pointer to the left, right pointer to the right
