@@ -3,8 +3,14 @@ class Solution:
         """
         Strip all whitespaces from the left
         Set flag for negative based on first non-whitespace character
+        Set num to 0
+        As long as current character is numeric, add to 10*num and save to num
 
-        
+        args:
+        s: string representing the number
+
+        return:
+        num: integer representation of the number
         """
         neg = False
         num = 0
