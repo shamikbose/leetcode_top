@@ -6,4 +6,6 @@ A repository showcasing solutions to the [Top Interview Questions](https://leetc
 3. [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
-
+6. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+7. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+8. [Container with Most Water](https://leetcode.com/problems/container-with-most-water)
