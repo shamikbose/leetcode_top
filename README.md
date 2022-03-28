@@ -1,9 +1,8 @@
 # leetcode_100
 A repository showcasing solutions to the [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/) on Leetcode. You can find me on Leetcode at [ShamikBose](https://leetcode.com/ShamikBose/)
 
-![Difficulty distribution](Distribution.png)
 <p align="center">
-  <img width="250" height="25" src="Distribution.png">
+  <img width="1000" height="150" src="Distribution.png">
 </p>
 
 1. [Two Sum](https://leetcode.com/problems/two-sum)
