@@ -1,4 +1,4 @@
-# leetcode_100
+# Leetcode's Top Interview Questions' Solutions
 A repository showcasing solutions to the [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/) on Leetcode. You can find me on Leetcode at [ShamikBose](https://leetcode.com/ShamikBose/)
 
 <p align="center">
