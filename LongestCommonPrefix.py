@@ -1,4 +1,4 @@
-# Difficulty: Medium
+# Difficulty: Easy
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         """

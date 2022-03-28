@@ -17,3 +17,4 @@ List of problems:
 8. Container with Most Water ([Problem Statement](https://leetcode.com/problems/container-with-most-water), [Solution](ContainerWithMostWater.py))
 9. Roman to Integer ([Problem Statement](https://leetcode.com/problems/roman-to-integer/), [Solution](RomanToInteger.py))
 10. Longest Common Prefix ([Problem Statement](https://leetcode.com/problems/longest-common-prefix/), [Solution](LongestCommonPrefix.py))
+11. Three Sum ([Problem Statement](https://leetcode.com/problems/3sum/), [Solution](ThreeSum.py))
