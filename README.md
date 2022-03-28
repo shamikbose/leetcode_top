@@ -12,4 +12,4 @@ A repository showcasing solutions to the [Top Interview Questions](https://leetc
 7. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 8. [Container with Most Water](https://leetcode.com/problems/container-with-most-water)
 9. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-10. []
+10. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
