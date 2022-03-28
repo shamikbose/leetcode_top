@@ -2,9 +2,7 @@
 A repository showcasing solutions to the [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/) on Leetcode. You can find me on Leetcode at [ShamikBose](https://leetcode.com/ShamikBose/)
 
 <figure>
-<p align="center">
-  <img width="1000" height="150" src="Distribution.png">
-</p>
+<img width="1000" height="150" src="Distribution.png">
 <figcaption align = "center"><b>Difficulty distribution</b></figcaption>
 </figure>
 
