@@ -1,10 +1,10 @@
 # leetcode_100
 A repository showcasing solutions to the [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/) on Leetcode. You can find me on Leetcode at [ShamikBose](https://leetcode.com/ShamikBose/)
 
-<figure>
-<img width="1000" height="150" src="Distribution.png">
-<figcaption align = "center"><b>Difficulty distribution</b></figcaption>
-</figure>
+<p align="center">
+  <img width="1000" height="150" src="Distribution.png">
+  <b>Difficulty distribution</b>
+</p>
 
 List of problems: 
 1. Two Sum([Problem Statement](https://leetcode.com/problems/two-sum), [Solution](TwoSum.py))
