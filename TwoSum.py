@@ -1,3 +1,4 @@
+# Difficulty: Easy
 from typing import List
 
 

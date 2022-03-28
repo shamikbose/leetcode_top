@@ -1,6 +1,8 @@
 # leetcode_100
 A repository showcasing solutions to the [Top Interview Questions](https://leetcode.com/problem-list/top-interview-questions/) on Leetcode. You can find me on Leetcode at [ShamikBose](https://leetcode.com/ShamikBose/)
 
+![Difficulty distribution](Distribution.png)
+
 1. [Two Sum](https://leetcode.com/problems/two-sum)
 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 3. [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
@@ -9,3 +11,5 @@ A repository showcasing solutions to the [Top Interview Questions](https://leetc
 6. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 7. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 8. [Container with Most Water](https://leetcode.com/problems/container-with-most-water)
+9. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+10. []
