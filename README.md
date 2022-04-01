@@ -6,8 +6,14 @@ A repository showcasing solutions to the [Top Interview Questions](https://leetc
   <b>Difficulty distribution</b>
 </p>
 
+<style>
+    red {color: red}
+    green {color: green}
+    orange {color: orange}
+</style>
+
 List of problems: 
-1. Two Sum ([Problem Statement](https://leetcode.com/problems/two-sum), [Solution](TwoSum.py))
+1. <green> Two Sum </green> ([Problem Statement](https://leetcode.com/problems/two-sum), [Solution](TwoSum.py))
 2. Add Two Numbers ([Problem Statement](https://leetcode.com/problems/add-two-numbers), [Solution](AddTwoNumbers.py))
 3. Longest Substring without Repeating Characters ([Problem Statement](https://leetcode.com/problems/longest-substring-without-repeating-characters/), [Solution](LongestSubstring.py))
 4. Median of Two Sorted Arrays ([Problem Statement](https://leetcode.com/problems/median-of-two-sorted-arrays/), [Solution](MedianSortedArrays.py))
@@ -19,3 +25,6 @@ List of problems:
 10. Longest Common Prefix ([Problem Statement](https://leetcode.com/problems/longest-common-prefix/), [Solution](LongestCommonPrefix.py))
 11. Three Sum ([Problem Statement](https://leetcode.com/problems/3sum/), [Solution](ThreeSum.py))
 12. Letter Combinations ([Problem Statement](https://leetcode.com/problems/letter-combinations-of-a-phone-number/), [Solution](LetterCombinations.py))
+13. Remove Nth Node from End ([Problem Statement](https://leetcode.com/problems/remove-nth-node-from-end-of-list/), [Solution](RemoveNthFromEnd.py))
+14. Valid Parentheses
+15. Merge Two Sorted Lists
